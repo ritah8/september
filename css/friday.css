@@ -1,4 +1,10 @@
 nav {
 background-color: blue;
-color: white
+color: white;
+}
+
+nav ul li {
+list-style-type: none;
+display: inline;
+float:left;
 }
